@@ -1,0 +1,27 @@
+
+Test_ID,Customer_Review,Expected_Output
+TC001,"The product is excellent, and I love its quality.",Positive
+TC002,"The delivery was late, and the product was damaged.",Negative
+TC003,"The product arrived yesterday.",Neutral
+TC004,"The customer support team was extremely helpful.",Positive
+TC005,"The product is not worth the money.",Negative
+TC006,"The package contained two items.",Neutral
+TC007,"The phone is good, but the battery life is terrible.",Negative
+TC008,"I am very happy with this purchase.",Positive
+TC009,"The product looks exactly like the pictures.",Positive
+TC010,"The quality is poor, and I regret buying it.",Negative
+TC011,"The item was delivered in a blue box.",Neutral
+TC012,"The price is reasonable, and the product works perfectly.",Positive
+TC013,"The product stopped working after two days.",Negative
+TC014,"The order contains a phone, charger, and headphones.",Neutral
+TC015,"I expected better quality for this price.",Negative
+TC016,"Amazing product! Highly recommended.",Positive
+TC017,"The product is okay, nothing special.",Neutral
+TC018,"The packaging was good, but the product was defective.",Negative
+TC019,"The delivery was faster than expected.",Positive
+TC020,"I received the product on Monday.",Neutral
+TC021,"Not bad, but not particularly impressive.",Neutral
+TC022,"I absolutely hate this product.",Negative
+TC023,"Excellent value for money. Very satisfied!",Positive
+TC024,"The product has a 5000mAh battery.",Neutral
+TC025,"The product is good, but delivery was slightly delayed.",Positive
