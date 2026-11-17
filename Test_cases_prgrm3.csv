@@ -1,15 +1,22 @@
-1	customer_query	expected_urgency
-2	Someone just changed my account password and email without my permission, and I am locked out before a major wire transfer.	High
-3	Our company's payment gateway API has been returning 500 errors for the past hour, blocking all customer checkouts.	High
-4	I noticed three unauthorized charges on my credit card statement from an unknown merchant today.	High
-5	The entire enterprise dashboard is down and our team cannot access any client records during peak business hours.	High
-6	I cancelled my order five days ago, and the refund still hasn't appeared in my bank account.	Medium
-7	I need to update the shipping address for my order #48291 before it leaves the warehouse tomorrow.	Medium
-8	The item I received today is damaged, and I need a replacement sent out before Friday.	Medium
-9	My automated monthly invoice failed to process due to an expired card, and I want to avoid service suspension.	Medium
-10	Can you tell me the difference between your Pro and Enterprise subscription tiers?	Low
-11	How do I update my profile picture and display name in the account settings?	Low
-12	Do you offer any student or non-profit discounts on annual plans?	Low
-13	Where can I download PDF copies of my past invoices for my tax records?	Low
-14	I want to change my profile bio, and also someone just drained my wallet balance!	High
-15	Can you explain your refund policy, and also my delivery address for tomorrow's package is wrong?	Medium
+
+Customer_Query,Expected_Output
+"My bank account has been hacked and money is being stolen",High
+"My account has been locked and I cannot access my emergency funds",High
+"The company website is completely down and customers cannot place orders",High
+"I lost access to my account and cannot complete an urgent payment",High
+"My credit card was used for an unauthorized transaction",High
+"My internet has been down for the entire day, affecting my work",High
+"I haven't received my refund for the last seven days",Medium
+"I want to change my delivery address for an order arriving tomorrow",Medium
+"My payment was deducted but the order was not confirmed",Medium
+"My package has not been delivered on the expected date",Medium
+"I am unable to reset my password, but I can still access my account",Medium
+"I have been waiting for a response from customer support for three days",Medium
+"Can you tell me how to update my profile picture?",Low
+"I would like to know about your available subscription plans",Low
+"What are the payment methods accepted by your company?",Low
+"How can I change my registered phone number?",Low
+"Where can I find your company's privacy policy?",Low
+"Can you explain the features of your premium membership?",Low
+"I want to know your business operating hours",Low
+"How can I unsubscribe from promotional emails?",Low
