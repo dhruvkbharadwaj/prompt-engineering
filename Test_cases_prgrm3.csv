@@ -1,0 +1,15 @@
+1	customer_query	expected_urgency
+2	Someone just changed my account password and email without my permission, and I am locked out before a major wire transfer.	High
+3	Our company's payment gateway API has been returning 500 errors for the past hour, blocking all customer checkouts.	High
+4	I noticed three unauthorized charges on my credit card statement from an unknown merchant today.	High
+5	The entire enterprise dashboard is down and our team cannot access any client records during peak business hours.	High
+6	I cancelled my order five days ago, and the refund still hasn't appeared in my bank account.	Medium
+7	I need to update the shipping address for my order #48291 before it leaves the warehouse tomorrow.	Medium
+8	The item I received today is damaged, and I need a replacement sent out before Friday.	Medium
+9	My automated monthly invoice failed to process due to an expired card, and I want to avoid service suspension.	Medium
+10	Can you tell me the difference between your Pro and Enterprise subscription tiers?	Low
+11	How do I update my profile picture and display name in the account settings?	Low
+12	Do you offer any student or non-profit discounts on annual plans?	Low
+13	Where can I download PDF copies of my past invoices for my tax records?	Low
+14	I want to change my profile bio, and also someone just drained my wallet balance!	High
+15	Can you explain your refund policy, and also my delivery address for tomorrow's package is wrong?	Medium
