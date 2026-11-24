@@ -1,0 +1,21 @@
+Test_Case_ID,Patient_Query,Expected_Output
+TC01,"I have severe chest pain and difficulty breathing.",EMERGENCY
+TC02,"I have a high fever and persistent vomiting.",URGENT
+TC03,"I have had mild nasal congestion since yesterday.",ROUTINE
+TC04,"I want to know which vitamins are good for general health.",ROUTINE
+TC05,"I feel unwell.",INSUFFICIENT_DATA
+TC06,"I have a severe headache that started suddenly.",EMERGENCY
+TC07,"I have mild occasional sneezing.",ROUTINE
+TC08,"I am experiencing sudden weakness on one side of my body.",EMERGENCY
+TC09,"I have persistent abdominal pain and fever.",URGENT
+TC10,"I have mild throat irritation.",ROUTINE
+TC11,"I am having difficulty breathing.",EMERGENCY
+TC12,"I have a persistent cough and high fever.",URGENT
+TC13,"I do not feel normal.",INSUFFICIENT_DATA
+TC14,"I have severe bleeding that will not stop.",EMERGENCY
+TC15,"I have a mild runny nose.",ROUTINE
+TC16,"I have persistent vomiting and cannot keep fluids down.",URGENT
+TC17,"I suddenly lost consciousness.",EMERGENCY
+TC18,"I have a mild headache.",ROUTINE
+TC19,"I have a fever and feel very weak.",URGENT
+TC20,"",INSUFFICIENT_DATA
