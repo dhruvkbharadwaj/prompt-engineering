@@ -19,3 +19,5 @@ TC17,"I suddenly lost consciousness.",EMERGENCY
 TC18,"I have a mild headache.",ROUTINE
 TC19,"I have a fever and feel very weak.",URGENT
 TC20,"",INSUFFICIENT_DATA
+TC21,"I vomited blood",EMERGENCY
+TC22,"I fell from my bike and got a bruise on my leg",ROUTINE
